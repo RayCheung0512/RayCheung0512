@@ -57,8 +57,8 @@ Close to the metal. Intentional about every dependency.
 
 ### Links
 
-[**Portfolio**](https://raycheungcheung.github.io/My-Profile) &nbsp;&nbsp;&middot;&nbsp;&nbsp;
-[**GitHub**](https://github.com/RayCheungCheung) &nbsp;&nbsp;&middot;&nbsp;&nbsp;
+[**Portfolio**](https://raycheung0512.github.io/My-Profile) &nbsp;&nbsp;&middot;&nbsp;&nbsp;
+[**GitHub**](https://github.com/RayCheung0512) &nbsp;&nbsp;&middot;&nbsp;&nbsp;
 [**Email**](mailto:ms5oi01yy@mozmail.com)
 
 </div>
